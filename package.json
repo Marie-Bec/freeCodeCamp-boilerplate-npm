@@ -1,6 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
 	"author": "Marie-Eve Becotte",
+  "description": "My FCC node js project",
+  "keywords": [
+    "node",
+    "package",
+    "learning",
+    "freecodecamp"
+  ],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
